@@ -1,10 +1,42 @@
-[{
-    "nombre_artista": "Kiss",
-    "pais_origen": "United satates",
-    "anios_actividad": "1972\\\\u2013present",
-    "anio_lanzamiento": "1974",
-    "genero_musical": "hard rock",
-    "unidad_certificada": "28.7 millous",
-    "ventas": "130, NLD",
-    "estado_artista": "inactivo"
-}]
+[
+    {
+        "nombre_artista": "Kiss",
+        "pais_origen": "United satates",
+        "anios_actividad": "1972\\\\u2013present",
+        "anio_lanzamiento": "1974",
+        "genero_musical": "hard rock",
+        "unidad_certificada": "28.7 millous",
+        "ventas": "130, NLD",
+        "estado_artista": "inactivo"
+    },
+    {
+        "nombre_artista": "juan",
+        "pais_origen": "estados unidos",
+        "anios_actividad": "21235",
+        "anio_lanzamiento": "545455",
+        "genero_musical": "pop",
+        "unidad_certificada": "46632",
+        "ventas": "455465",
+        "estado_artista": "activo"
+    },
+    {
+        "nombre_artista": "andrea",
+        "pais_origen": "peru",
+        "anios_actividad": "65223",
+        "anio_lanzamiento": "12312",
+        "genero_musical": "pop",
+        "unidad_certificada": "123132",
+        "ventas": "3232131",
+        "estado_artista": "activo"
+    },
+    {
+        "nombre_artista": "vanesa",
+        "pais_origen": "reino unido",
+        "anios_actividad": "22326",
+        "anio_lanzamiento": "122323",
+        "genero_musical": "jazz",
+        "unidad_certificada": "557852",
+        "ventas": "5454556",
+        "estado_artista": "inactivo"
+    }
+]
