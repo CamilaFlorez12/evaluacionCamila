@@ -1,16 +1,10 @@
-# Music information
+# 🎶Music information
 
 It consits in a program that allow to show and change artists information
-## Table of contents
-1. [Description](#project-description)
-2. [Utility](#project-description)
-3. [Example of use](#project-description)
-4. [Authors](#project-description)
-5. [Repository link](#project-description)
 
 ## About 
 
-## Project description
+## 📄Project Description
 
 ```
 Firs you need to add an artist
@@ -19,27 +13,42 @@ Third you nedd to add the music gender
 Show the information
 ```
 
-## why is the project useful?
+## 🛠️ Utility
 ```
 To have an inventary about those artist and have their information 
 ```
+## 🧰 Technologies used
 
+- **Python 3**  
+- **JSON** (for data persistence)  
+- **Modular programming structure**  
+- **Visual Studio Code** (for development) 
 
-#### Examples
+#### 💡 Example of Use
 ```
 Enter information:
 name:
 country: ....
 ```
+### 🚀 How to Run
+1.Clone the repository:
+
+git clone https://github.com/CamilaFlorez12/evaluacionCamila
+2.Run the main Python script:
+
+python main.py
+⚠️ Make sure you have Python installed on your system.
+
+
+
 
 ## Authors ✒️
 
-_VCamila Florez_
+_Camila Florez_
 
 * **Camila Florez** -
 
+## 🔗 Repository
+This project is available under the following repository:
+https://github.com/CamilaFlorez12/evaluacionCamila
 
-
-## License 📄
-
- https://github.com/CamilaFlorez12](https://github.com/CamilaFlorez12/evaluacionCamila)
